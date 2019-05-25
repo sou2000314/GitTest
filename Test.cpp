@@ -1,7 +1,7 @@
 ﻿void testfunction()
 {
 	printf("testtest");
-	私が森澤だ
+	私が森澤だし藤澤だ
 }
 
 //aaaa
