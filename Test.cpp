@@ -1,6 +1,7 @@
 ﻿void testfunction()
 {
 	printf("testtest");
+	鳥美味い
 }
 
 //aaaa
