@@ -1,0 +1,9 @@
+diff a/Test.cpp b/Test.cpp	(rejected hunks)
+@@ -1,6 +1,7 @@
+ ﻿void testfunction()
+ {
+ 	printf("testtest");
++	鳥美味い
+ }
+ 
+ //aaaa
